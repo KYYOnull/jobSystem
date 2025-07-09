@@ -2,6 +2,8 @@ package com.easyjob.enums;
 
 public enum PermissionCodeEnum {
 
+    NO_PERMISSION("", ""),
+
     APP_FEEDBACK_LIST("", "问题反馈"),
     APP_FEEDBACK_REPLY("", ""),
 
